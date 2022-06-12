@@ -1,0 +1,2 @@
+The csv file used in the project is around 180mb. Feel free to download and use :
+Link : https://drive.google.com/drive/folders/1JkufiPt1pEZ5siCveQTg9O4kjIKV99vk?usp=sharing
